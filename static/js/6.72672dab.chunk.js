@@ -1,0 +1,2 @@
+(this["webpackJsonpdiscord-clone"]=this["webpackJsonpdiscord-clone"]||[]).push([[6],{273:function(e,c,n){"use strict";n.r(c);var t=n(0),s=n(15),a=n(86),r=n(3),l=Object(t.lazy)((function(){return Promise.all([n.e(3),n.e(4)]).then(n.bind(null,263))}));c.default=function(e){var c=e.match;return Object(r.jsx)(r.Fragment,{children:Object(r.jsx)(t.Suspense,{fallback:Object(r.jsx)(a.a,{}),children:Object(r.jsx)(s.d,{children:Object(r.jsx)(s.b,{path:"".concat(c.path,"/:channelId"),component:l})})})})}}}]);
+//# sourceMappingURL=6.72672dab.chunk.js.map
